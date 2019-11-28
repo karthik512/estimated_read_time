@@ -7,7 +7,7 @@ description = "Calculates the time taken to read a text."
 license = "MIT"
 documentation = "https://docs.rs/estimated_read_time/0.1.0/estimated_read_time/"
 repository = "https://github.com/karthik512/estimated_read_time"
-keywords = ["read_time", "reading_time", "estimated_time", "estimated_reading_time", "medium_time", "read", "time"]
+keywords = ["read_time", "reading_time", "estimated_time", "estimated_reading_time", "medium_time"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
