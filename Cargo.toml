@@ -5,6 +5,9 @@ authors = ["karthik.k <karthik51295@gmail.com>"]
 edition = "2018"
 description = "Calculates the time taken to read a text."
 license = "MIT"
+documentation = "https://docs.rs/estimated_read_time/0.1.0/estimated_read_time/"
+repository = "https://github.com/karthik512/estimated_read_time"
+keywords = ["read-time", "reading-time", "estimated time", "estimated reading time", "medium time", "read", "time"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
