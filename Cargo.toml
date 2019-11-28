@@ -1,0 +1,11 @@
+[package]
+name = "estimated_read_time"
+version = "0.1.0"
+authors = ["karthik.k <karthik51295@gmail.com>"]
+edition = "2018"
+description = "Calculates the time taken to read a text."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
